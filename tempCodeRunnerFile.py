@@ -1,0 +1,1 @@
+class StartPage(tk.Frame):
